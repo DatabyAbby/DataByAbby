@@ -1,0 +1,32 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environment
+.env
+.venv
+
+# Personal data files
+*.csv
+*.xlsx
+*.xls
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/

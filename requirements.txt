@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+scipy
+statsmodels
+nltk
+spacy
+openai
+openpyxl
+requests
